@@ -5,7 +5,8 @@ DOG = {
     ],
     names: ["Harleigh", "brown"]
   },
-  "harleigh" => {preferences: [favorite_toy: "frog"]}
+  "harleigh" => {preferences: [favorite_toy: "frog"],
+    information: {sport: ["frisbee", "hiking"]}}
 }
 
 
