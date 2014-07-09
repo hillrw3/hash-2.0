@@ -8,7 +8,8 @@ DOG = {
   "harleigh" => {preferences: [favorite_toy: "frog"],
     information: {sport: ["frisbee", "hiking"]}
   },
-  "trixie" => {preferences: [favorite_food: "steak"]}
+  "trixie" => {preferences: [favorite_food: "steak"],
+    information: {sport: [:swimming, :prancing]}}
 }
 
 
